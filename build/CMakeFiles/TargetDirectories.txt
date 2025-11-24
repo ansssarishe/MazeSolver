@@ -1,0 +1,3 @@
+/Users/ansstsvv/Coding/Maze/build/CMakeFiles/app.dir
+/Users/ansstsvv/Coding/Maze/build/CMakeFiles/edit_cache.dir
+/Users/ansstsvv/Coding/Maze/build/CMakeFiles/rebuild_cache.dir
